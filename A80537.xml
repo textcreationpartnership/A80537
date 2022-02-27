@@ -1,0 +1,676 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last, and highest appeal. Or, An appeal to God, against the new-religion-makers, dresters, menders, or venders amongst us. Wherein is evidenced, amongst other things, that they have not true faith, true repentance, or true charity. Likewise, that the seven heads of sin, commonly called, the seven deadly sins, are manifestly apparent in the lifes of their preachers. / By Richard Carpenter.</title>
+            <author>Carpenter, Richard, d. 1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80537</idno>
+            <idno type="STC">Wing C623</idno>
+            <idno type="STC">Thomason E1650_2</idno>
+            <idno type="STC">ESTC R209117</idno>
+            <idno type="EEBO-CITATION">99868015</idno>
+            <idno type="PROQUEST">99868015</idno>
+            <idno type="VID">170218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1650[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last, and highest appeal. Or, An appeal to God, against the new-religion-makers, dresters, menders, or venders amongst us. Wherein is evidenced, amongst other things, that they have not true faith, true repentance, or true charity. Likewise, that the seven heads of sin, commonly called, the seven deadly sins, are manifestly apparent in the lifes of their preachers. / By Richard Carpenter.</title>
+                  <author>Carpenter, Richard, d. 1670?</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>16[5]6.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 2[3]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Deadly sins --  Early works to 1800.</term>
+               <term>Religious thought --  17th century.</term>
+               <term>Clergy --  Office --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170218:1" rendition="simple:additions"/>
+            <p>THE LAST, <hi>AND</hi> HIGHEST APPEAL. <hi>OR, An Appeal to God,</hi> Againſt the New-Religion-Makers, Dreſters, Menders, or Venders amongſt us.</p>
+            <p>Wherein is evidenced, amongſt o<g ref="char:EOLhyphen"/>ther things, That they have not true Faith, true Repentance, or true Charity.</p>
+            <p>LIKEWISE, That the ſeven Heads of Sin, commonly called, <hi>The ſeven deadly Sins,</hi> are ma<g ref="char:EOLhyphen"/>nifeſtly apparent in the Lifes of their Preachers.</p>
+            <p>By <hi>Richard Carpenter.</hi>
+            </p>
+            <q>
+               <bibl>1 John 2. 18.</bibl>
+               <p>
+                  <hi>Little Children, it is the laſt time: and as ye have heard that Antichriſt ſhall come, even now are there many Antichriſts, whereby we know that it is the laſt time.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author, 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170218:2"/>
+            <pb facs="tcp:170218:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>EXpect here no <hi>School-Depths,</hi> or vain Oſtentation of <hi>Learning,</hi> no laborious, or curious enquiry into the various Cloſets of <hi>Language:</hi> no high<g ref="char:EOLhyphen"/>rais'd Phraſes, or, delicious effluences of the Tongue: nor yet, the ſallies or out-walkings of any thing like unto <hi>Paſſion.</hi> I have purpoſely gon beſides all theſe.</p>
+            <p>I now only <hi>pour out my Soul,</hi> by way <note place="margin">1 <hi>Sam.</hi> 1. 15.</note> of <hi>Appeal,</hi> at the feet of the great God, before wbom I muſt appear at the laſt day: when <hi>my Workes ſhall follow me.</hi> 
+               <note place="margin">
+                  <hi>Revel.</hi> 14. 13.</note> And this is All. Farewell. And <hi>well</hi> obſerve, how they <hi>fare</hi> hereafter, againſt whom <hi>I appeal.</hi>
+            </p>
+            <closer>
+               <signed>Thy friend in Chriſt, R. C.</signed>
+            </closer>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:170218:3"/>
+            <head>Gen. 3. 8.</head>
+            <p>
+               <hi>ANd they heard the Voice of the Lord God, walking in the garden in the cool of the day.</hi>
+            </p>
+            <p>Almighty God coming forth to Judg<g ref="char:EOLhyphen"/>ment, firſt <hi>Voices</hi> it a while, and <hi>walks</hi> a little in <hi>Eden,</hi> that is, (as the <hi>Septua<g ref="char:EOLhyphen"/>gint)</hi> in the <hi>Garden of Pleaſure,</hi> (a place apt to divert our Vehement, and more intenſe Thoughts;) <hi>lento pede,</hi> with a ſlow foot; and this, in a time of <hi>cooling:</hi> to make known to us, that his Anger is not a raſh Paſſion, as ours is. But afterwards, he quickly gives <hi>Sentence,</hi> and quickly proceeds to <hi>execution,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170218:3"/>
+            <head>THE LAST <hi>AND</hi> HIGHEST APPEAL.</head>
+            <div n="1" type="chapter">
+               <head>CHAPTER I.</head>
+               <argument>
+                  <p>The Appeal, with an Eye upon the Iudge, unto whom the Appeal is made.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll <hi>regular Appeals,</hi> have a <hi>regular motion:</hi> by the which, we move our <hi>Cauſe</hi> from the judge<g ref="char:EOLhyphen"/>ment of the <hi>inferiour Judge</hi> or <hi>Court,</hi> to the <hi>judgement</hi> of the <hi>Superiour Court</hi> or <hi>Judge:</hi> as the <hi>Doctor of the Gentiles, appealed</hi> from <note place="margin">
+                     <hi>Acts</hi> 25, 11.</note> 
+                  <hi>Feſtus</hi> unto <hi>Ceſar.</hi>
+               </p>
+               <p>And that our <hi>Appeal</hi> may be altoge<g ref="char:EOLhyphen"/>ther juſt, and regular: it muſt likewiſe <hi>occaſionally</hi> proceed from a <hi>known defect</hi> or emptineſs (with reſpect unto the <hi>Cauſe)</hi> in the <hi>judgement</hi> of the <hi>Inferiour Iudge</hi> or <hi>Court.</hi>
+               </p>
+               <pb n="2" facs="tcp:170218:4"/>
+               <p> Now therefore, when <hi>humane Helps</hi> are deficient, (or, not acknowledged,) <hi>divine Helps</hi> may be lawfully and regu<g ref="char:EOLhyphen"/>larly implored: and the All-ſeeing God, who is alſo the higheſt Judge, (beyond whom there is no <hi>Appeal)</hi> may be, as it were, violently awaked with our <hi>laſt</hi> and <hi>higheſt Appeal.</hi>
+               </p>
+               <p>Wherefore unto Thee I moſt humbly make my <hi>Appeal,</hi> O moſt righteous <hi>Iudge</hi> 
+                  <note place="margin">Gen. 18. 25.</note> 
+                  <hi>of all the Earth, which art in Heaven,</hi> and haſt revealed thy Self upon Earth: as thou art the Knower of all Hearts, and Secrets; and the <hi>Supreme Iudge</hi> of all <hi>Cauſes.</hi> And my Glory now is: that <hi>all things are naked and opened unto the eyes of him with whom we have to do.</hi> 
+                  <note place="margin">Heb. 4. 13.</note>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The Appeal, with reflexion upon the Perſon appealing.</p>
+               </argument>
+               <p>THe Perſon <hi>appellant,</hi> or <hi>appealing,</hi> is my ſelf. And I am a Man. Indeed, in a <hi>Scripture-Senſe, I am a Worm, and no Man.</hi> For, I have lived, as if I had <note place="margin">Pſal. 22. 6.</note> no Senſe, but the laſt and loweſt of all, (the touching Senſe,) as the <hi>Worm</hi> hath.
+<pb n="3" facs="tcp:170218:4"/> Verily, I have lived, as the <hi>Worm</hi> lives, a creeping life, devoted to mire and Earth. Moreover, In my ſelf, I am a naked Creature, as the <hi>Worm</hi> is; and am skinn'd like the <hi>VVorm. Naked came I out of my Mothers womb, and naked ſhall I</hi> 
+                  <note place="margin">Job 1. 21.</note> depart hence. And laſtly, when Death ſhall tread upon me, I ſhall quickly evi<g ref="char:EOLhyphen"/>dence to the World, that I am Dirt; as the <hi>VVorm</hi> does, when trod upon.</p>
+               <p>But notwithſtanding all this: Being a <hi>VVorm,</hi> I am a <hi>reaſonable Worm;</hi> For, I have an erected Body, and a reaſonable Soul: which the <hi>common VVorm</hi> hath not. And I humbly hope, that I am one of thoſe, for <hi>whom Chriſt died.</hi> And <note place="margin">1 Cor. 8. 11.</note> therefore, above all the plea of Nature, I am a <hi>Chriſtian worm;</hi> and conſequent<g ref="char:EOLhyphen"/>ly, was not made by our great <hi>Maker,</hi> to be trod upon every day by Men, Wo<g ref="char:EOLhyphen"/>men, or Beaſts: but have a juſt and true Title to the <hi>true worſhip of God the Father of Christ: (which is our reaſonable Ser<g ref="char:EOLhyphen"/>vice:</hi> 
+                  <note place="margin">Rom. 12 1.</note>) and to ſuch <hi>Rights</hi> and <hi>Priviledg<g ref="char:EOLhyphen"/>es,</hi> whereunto I was created, and which I have not forfeited.</p>
+               <p>Now therefore, I humble my ſelf be<g ref="char:EOLhyphen"/>fore thy moſt <hi>ſacred Majesty,</hi> O Almigh<g ref="char:EOLhyphen"/>ty Lord God. I confeſs, that I <hi>am but</hi> 
+                  <note place="margin">Gen. 18. 27.</note> 
+                  <hi>duſt and aſhes! duſt,</hi> with reſpect unto the <hi>formation</hi> of our firſt Parent: <hi>(And</hi>
+                  <pb n="4" facs="tcp:170218:5"/> 
+                  <hi>the Lord God formed man of the duſt of the</hi> 
+                  <note place="margin">Gen. 2. 7.</note> 
+                  <hi>ground:)</hi> and <hi>aſhes,</hi> if thou ſhalt deal with me according to the rigorous pull of thy <hi>Iuſtice,</hi> as thou didſt with <hi>Sodom,</hi> which gave the firſt occaſion to this <hi>actual con<g ref="char:EOLhyphen"/>feſſion. I am a man of unclean lips, and I dwell in the midst of a people of unclean lips.</hi> 
+                  <note place="margin">Iſ. 6. 5.</note> But O my God, I am very weary of my old Self, and of my new Company: of my <hi>unclean</hi> Self, and of my <hi>unclean</hi> Company. Aſſuredly, <hi>I will ariſe, and go to my Fa<g ref="char:EOLhyphen"/>ther.</hi> 
+                  <note place="margin">Luk. 15. 18.</note>
+               </p>
+               <p>
+                  <hi>O my Father, my Father:</hi> By the <hi>per<g ref="char:EOLhyphen"/>miſſive Diſpoſition</hi> of thy <hi>ſweet Providence,</hi> the Slaves and Servants uſe me roughly, unchriſtianly, cruelly; to the end, I may return crying to thee my moſt loving Fa<g ref="char:EOLhyphen"/>ther, and lodge my Self in thy cloſe and warm embraces. O righteous God, I moſt heartily deſire to execute thy <hi>Iu<g ref="char:EOLhyphen"/>ſtice,</hi> according to the Letter of thy Law, upon my Self: And for the preſent, <hi>I ab<g ref="char:EOLhyphen"/>hor my ſelf, and repent in duſt and aſhes:</hi> and <note place="margin">Job. 42. 6.</note> I moſt humbly require <hi>Iuſtice</hi> of thee a<g ref="char:EOLhyphen"/>gainſt my moſt unjuſt, and moſt cruel Perſecutors.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:170218:5"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>The Appeal, with Relation to the Perſons againſt whom the Appeal is.</p>
+               </argument>
+               <p>THe Perſons againſt whom I <hi>appeal,</hi> are the new-religion'd and factious people of this Nation: and ſome of theſe under a new and <hi>ſpecial conſideration:</hi> that is; as having, agreeably to my great and grievous experience, <hi>a heart and a heart,</hi> 
+                  <note place="margin">Pſal. 12. 2. <hi>Secun<g ref="char:EOLhyphen"/>dùm Sep<g ref="char:EOLhyphen"/>tuag. &amp; alios.</hi>
+                  </note> and many <hi>double</hi> and moſt <hi>falſe tongues.</hi>
+               </p>
+               <p>Certainly, where is a <hi>Delinquen<g ref="char:EOLhyphen"/>cy</hi> or deficiency in the <hi>Profeſſion</hi> or <hi>Con<g ref="char:EOLhyphen"/>feſſion</hi> of <hi>Chriſtian Faith,</hi> there is likewiſe a deficiency or <hi>Delinquency</hi> in <hi>Chriſtian work,</hi> Practiſe, or <hi>Manners.</hi> Becauſe our <hi>Operation, Work,</hi> or Practiſe, de<g ref="char:EOLhyphen"/>pends upon the <hi>Being</hi> in us, which is <hi>congenerous</hi> and proportionable to it: and in <hi>ſpiritual things,</hi> by Faith, (as it is written of <hi>Grace,) we are what we are.</hi> And yet, becauſe Religion is newly ta<g ref="char:EOLhyphen"/>ken <note place="margin">1 Cor. 15. 10.</note> up, and all new Things that have heat in them, are moſt hot in their firſt newneſs; there will be a glorious and great ſhew of zeal and religion in theſe <hi>new Lights,</hi> theſe <hi>fooliſh Fires,</hi> theſe <hi>bla<g ref="char:EOLhyphen"/>zing Meteors;</hi> although the perform<g ref="char:EOLhyphen"/>ance fall greatly ſhort, becauſe there
+<pb n="6" facs="tcp:170218:6"/> is great want of a <hi>ſound Principle.</hi>
+               </p>
+               <p>But as the wiſe Phyſician, coming to a ſick-man, firſt examines his Tongue: becauſe the Evil of the Body, there quick<g ref="char:EOLhyphen"/>ly diſcovers it ſelf: ſo the corrupt ſouls of theſe Night-born Muſhroms in Reli<g ref="char:EOLhyphen"/>gion, theſe Glow-worm-Lights, ſoon appear in their foul tongues; with the which they laſh and beat down all that walk beſides their new Adder-haunted pathes, with a purpoſe to ſet up them<g ref="char:EOLhyphen"/>ſelves and their moſt impure pretended Purity. Yea, with theſe their <hi>Evil Tongues,</hi> which <hi>are ſet on fire of Hell,</hi> they <hi>ſet on fire the courſe of Nature;</hi> and <note place="margin">James 3. 6.</note> moving all Things which are in the World, being the Theater of Nature, out of their <hi>natural</hi> and <hi>proper Courſes,</hi> render the World the very Suburbs of Hell.</p>
+               <p>Againſt theſe I appeal to Thee, O Thou who art <hi>the living God,</hi> and the <hi>na<g ref="char:EOLhyphen"/>tural</hi> 
+                  <note place="margin">Matth. 16. 16. Coloſſ. 2 3.</note> 
+                  <hi>Father</hi> of him, <hi>in whom are hid all the treaſures of wiſdom and knowledge.</hi> For his dear ſake, Ariſe, and in thy <hi>Wiſ<g ref="char:EOLhyphen"/>dom,</hi> and according to thy <hi>Knowledge, Plead my cauſe.</hi> I (poor Man) know, that we may not call thee to <hi>witneſs,</hi> in a falſe <hi>Matter;</hi> much leſs, in ſuch a <hi>Mat<g ref="char:EOLhyphen"/>ter, appeal</hi> to thee as a <hi>Judge.</hi> Concern<g ref="char:EOLhyphen"/>ing the <hi>Matters of Faith;</hi> all Antiquity,
+<pb n="7" facs="tcp:170218:6"/> thy <hi>preſent Church,</hi> and thy own Word witneſs for me: With reference to the <hi>Matters of Fact;</hi> ſpeak thou for me, or againſt me; and relieve my Conſcience, which cannot ſpeak beyond my hearing. And here I will boldly ſtand-up, and with a <hi>Chriſtian confidence,</hi> and in the <hi>Power which I received from thee,</hi> pro<g ref="char:EOLhyphen"/>nounce the ſacred Verſes, with which they uſed in the <hi>Primitive Church,</hi> to chaſe away the <hi>Noon-day Devils: Let</hi> 
+                  <note place="margin">Pſal. 68. 1. ver. 2.</note> 
+                  <hi>God ariſe, let his enemies be ſcattered, let them alſo that hate him flee before him. As ſmoke is driven away, ſo drive them away: as wax melteth before the fire, ſo let the wic<g ref="char:EOLhyphen"/>ked periſh at the preſence of God.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>The Appeal, with a finger directed to the firſt Matter in Question.</p>
+               </argument>
+               <p>THe firſt <hi>Matter</hi> of the <hi>Appeal,</hi> is. I affirm, That theſe our <hi>New Lights,</hi> and <hi>walking Lanthorns,</hi> are a notable part of the Wandring and <hi>Separating</hi> people of the <hi>laſt daies:</hi> concerning whom the Scripture is ſo various, and ſo wonder<g ref="char:EOLhyphen"/>fully
+<pb n="8" facs="tcp:170218:7"/> admoniſhing. Theſe bold people deny it. My Reaſon is: If theſe be no part of thoſe people, we ſhall never ſuf<g ref="char:EOLhyphen"/>ficiently know where, when, or how to diſcover ſuch a people: and all the Scri<g ref="char:EOLhyphen"/>pture-Leſſons handed to us for that pur<g ref="char:EOLhyphen"/>poſe, ſhall vainly fall to the Ground; and a foul aſperſion be caſt upon God, the Author of Scripture, as inſufficient in his admoniſhments.</p>
+               <p>And that which animates my Reaſon, is the moſt exact Conformity which theſe people have with the many Diſcoveries and characters made and given of Wan<g ref="char:EOLhyphen"/>derers and Seducers in holy Scripture. Here it is excellently worthy our Ob<g ref="char:EOLhyphen"/>ſervation, that Scripture is ſcarcely ſo va<g ref="char:EOLhyphen"/>rious and wonderfull in any Matter, as in this.</p>
+               <p>For firſt, Scripture commands, <hi>Thus ſaith the Lord, Stand ye in the waies, and ſee,</hi> 
+                  <note place="margin">Jerem. 6. 16.</note> 
+                  <hi>and ask for the old paths, where is the good way, and walk therein, and ye ſhall find reſt for your Souls.</hi> The <hi>old Latin Bible</hi> reads, <note place="margin">
+                     <g ref="char:V">Ʋ</g>etus Interpres</note> State ſuper vias: <hi>Stand ye upon,</hi> or <hi>over and above the waies:</hi> that is, take a view &amp; ſurvey of all waies; that ye may diſcern between the <hi>old waies</hi> and the new: but amongſt <hi>the old paths,</hi> ye ſhall find <hi>the good way,</hi> wherein ye muſt walk, that <hi>your Souls</hi> may reſt in God, as in their <hi>proper center.</hi>
+               </p>
+               <pb n="9" facs="tcp:170218:7"/>
+               <p> Secondly, Scripture intreats. <hi>Now I</hi> 
+                  <note place="margin">Rom. 16 17.</note> 
+                  <hi>beſeech you brethren, mark them which cauſe diviſions and offences, contrary to the do<g ref="char:EOLhyphen"/>ctrine which ye have learned, and avoid them. For they that are ſuch, ſerve not our</hi> 
+                  <note place="margin">v. 18.</note> 
+                  <hi>Lord Ieſus Chriſt, but their own belly, and by good words and fair ſpeeches deceive the hearts of the ſimple. Mark them:</hi> that is, <hi>obſerve them,</hi> to <hi>avoid them:</hi> or, if ye pleaſe, mark them <hi>nigro carbone,</hi> with a black coal; or, know them for black Sheep.</p>
+               <p>Thirdly, Scripture exclames, and makes an out-cry; <hi>O Timothy, keep that which is committed to thy truſt, avoiding</hi> 
+                  <note place="margin">1 Tim. 6. 20.</note> 
+                  <hi>prophane and vain bablings, and oppoſitions of Science, falſely ſo called: which ſome</hi> 
+                  <note place="margin">v. 21.</note> 
+                  <hi>profeſſing have erred concerning the faith.</hi> The Apoſtle cries out, as men do when they warn a Friend, that is near the mouth of a deep pit, or in ſome other great danger of Deſtruction.</p>
+               <p>Fourthly, Scripture gives warning concerning future Times, and Prophe<g ref="char:EOLhyphen"/>ſies. <hi>In the laſt daies perillous times ſhall</hi> 
+                  <note place="margin">2 Tim. 3. 1. v. 2. v. 3. v. 4.</note> 
+                  <hi>come: For men ſhall be lovers of their own ſelves,—boaſters, proud, blasphemers,—Without natural affection, truce-breakers, falſe accuſers,—</hi>O the divine Truth of ſacred Scripture! <hi>heady, high-minded,—: Having a form of godlineſs, but denying the</hi> 
+                  <note place="margin">v. 5.</note>
+                  <pb n="10" facs="tcp:170218:8"/> 
+                  <hi>power thereof: from ſuch turn away: For</hi> 
+                  <note place="margin">v. 6.</note> 
+                  <hi>of this ſort are they which creep into houſes, and lead captive ſilly women laden with ſins, led away with divers luſts, ever learning, and never able to come to the knowledge of</hi> 
+                  <note place="margin">v. 7.</note> 
+                  <hi>the truth.</hi> Behold a moſt lively Picture of our <hi>captive-ſilly-ſin-laden-led-away-luſtful-everlearning-ignorant women.</hi> A<g ref="char:EOLhyphen"/>gain, <hi>For the time will come, when they will</hi> 
+                  <note place="margin">2 Tim. 4. 3.</note> 
+                  <hi>not endure ſound doctrine, but after their own lusts ſhall they heap to themſelves teach<g ref="char:EOLhyphen"/>ers, having itching ears: And they ſhall</hi> 
+                  <note place="margin">v. 4.</note> 
+                  <hi>turn away their ears from the truth, and ſhall be turned unto fables.</hi> This Prophecy is made Hiſtory amongſt us. Alſo S. Jude, <note place="margin">Jude, v. 17.</note> 
+                  <hi>But, beloved, remember ye the words which were spoken before of the Apoſtles of our Lord Jeſus Chriſt: How that they told you</hi> 
+                  <note place="margin">v. 18.</note> 
+                  <hi>there ſhould be mockers in the laſt time, who ſhould walk after their own ungodly luſts. Theſe be they who ſeparate themſelves, ſen<g ref="char:EOLhyphen"/>ſual,</hi> 
+                  <note place="margin">v. 19.</note> 
+                  <hi>having not the Spirit.</hi> Theſe <hi>mockers</hi> and <hi>Separates,</hi> pretend that they have <hi>the Spirit;</hi> but St. <hi>Iude</hi> declares, that they are <hi>ſenſual,</hi> and <hi>have it not.</hi>
+               </p>
+               <p>Fifthly, The Scripture exhorts: <hi>Ye therefore, beloved, ſeeing ye know theſe</hi> 
+                  <note place="margin">2 Pet. 3. 17.</note> 
+                  <hi>things before, beware leſt ye alſo, being led away with the errour of the wicked, fall from your own ſtedfaſtneſs. But grow in</hi> 
+                  <note place="margin">v. 18.</note> 
+                  <hi>grace and in the knowledge of our Lord and</hi>
+                  <pb n="11" facs="tcp:170218:8"/> 
+                  <hi>Saviour Ieſus Chriſt: to him be glory both now and for ever, Amen.</hi> The Apoſtles commonly end their Epiſtles with this Matter; that they may imprint it the more into the Hearts of thoſe unto whom they write. And St. Jude, <hi>But</hi> 
+                  <note place="margin">Jude, v. 20.</note> 
+                  <hi>ye, beloved, building up your ſelves on your moſt holy faith, praying in the Holy Ghoſt, Keep your ſelves in the love of God, looking</hi> 
+                  <note place="margin">v. 21.</note> 
+                  <hi>for the mercie of our Lord Ieſus Chriſt unto Eternal life.</hi> This Faith muſt be the firſt, and moſt ancient <hi>in it's Order,</hi> or it cannot be the <hi>moſt holy Faith.</hi>
+               </p>
+               <p>Sixthly, The Scripture awakes our memory, which applies it ſelf to paſt Things. <hi>Remember therefore how thou haſt</hi> 
+                  <note place="margin">Revelat. 3. 3.</note> 
+                  <hi>received, and heard, and hold faſt.</hi> Saint John writes here <hi>unto the angel of the Church in Sardis.</hi>
+               </p>
+               <p>And the Reaſon why Scripture is ſo various, and uſes all theſe Helps, Waies, and Weapons, is: Becauſe if we do not abide in the moſt ancient Doctrine, we do not abide in the <hi>ancient of Daies,</hi> who is God. Which is eaſily deduced from theſe holy words. <hi>Let that therefore a<g ref="char:EOLhyphen"/>bide</hi> 
+                  <note place="margin">1 John 2. 24.</note> 
+                  <hi>in you, which ye have heard from the beginning: if that which yee have heard from the beginning ſhall remain in you, ye alſo ſhall continue in the Son, and in the Father.</hi>
+               </p>
+               <pb n="12" facs="tcp:170218:9"/>
+               <p> Here is my Plea: To thee, O <hi>only wiſe God, I appeal.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>The Second Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe ſecond <hi>Matter</hi> of the <hi>Appeal,</hi> is. Theſe prodigious Chriſtians call themſelves <hi>Saints,</hi> and the only-Be<g ref="char:EOLhyphen"/>lievers. I avouch, That they have not <hi>Faith,</hi> much leſſe any kinde of <hi>Saintſhip:</hi> And I am ſteered hereunto, by this <hi>De<g ref="char:EOLhyphen"/>ſcription</hi> of <hi>Faith,</hi> anſwerable to thy <hi>Word,</hi> and accepted by the whole truly-Chri<g ref="char:EOLhyphen"/>ſtian world.</p>
+               <p>Faith, with reſpect unto the <hi>Giver,</hi> is of God; with relation to the <hi>manner of giving,</hi> is an <hi>infuſed Grace;</hi> and in the <hi>Exerciſe</hi> of it, is <hi>a firm and immovable Adheſion or Aſſent of the <g ref="char:V">Ʋ</g>nderſtanding, to the Truths revealed by God, and propoſed by the Church of God, as the Spouſe of his only-begotten Son Chriſt Ieſus.</hi>
+               </p>
+               <p>Firſt, <hi>Faith</hi> differeth from <hi>Opinion;</hi> which is a <hi>pendulous or wavering Aſſent,</hi> and eaſily movable.</p>
+               <p>Secondly, <hi>Faith</hi> is a Vertue of the Un<g ref="char:EOLhyphen"/>derſtanding;
+<pb facs="tcp:170218:9"/> and by the Power of God, <hi>infuſed</hi> into it; the Underſtanding being the firſt <hi>Faculty</hi> of the Soul, or <hi>Spirit;</hi> and <hi>Faith</hi> being a <hi>Spiritual Grace,</hi> yea, the <hi>Ba<g ref="char:EOLhyphen"/>ſis</hi> and Foundation of all other true Ver<g ref="char:EOLhyphen"/>tues, and <hi>Graces.</hi> Yet, Faith works not, but <hi>adjunctâ Voluntate, our Will concurring and moving,</hi> appliably to the working of <hi>Grace.</hi>
+               </p>
+               <p>Thirdly, The Truths believed, muſt be <hi>revealed;</hi> Becauſe the <hi>Power</hi> that gives a <hi>ſupernatural Grace</hi> or Vertue, muſt likewiſe preſent the <hi>Matter</hi> or <hi>Object,</hi> that theſe may be <hi>proportionable,</hi> and ſta<g ref="char:EOLhyphen"/>ted in the ſame <hi>Order:</hi> and becauſe we cannot, in any kind, pleaſe God <hi>in order to Glory,</hi> without God, and without <hi>Faith:</hi> the Apoſtle plainly teaching, <hi>Without Faith it is impoſſible to pleaſe God:</hi> 
+                  <note place="margin">Heb. 11. 6.</note> and <hi>Faith</hi> hath <hi>neceſſary reference</hi> to it's <hi>Object.</hi>
+               </p>
+               <p>Fourthly, (Here theſe religious Jug<g ref="char:EOLhyphen"/>lers are plainly diſcovered to the Senſe: and this was the <hi>regulated</hi> and <hi>orthodox</hi> Divinity of honeſt and quiet <hi>Old-Eng<g ref="char:EOLhyphen"/>land:)</hi> The true Church, and Spouſe of Chriſt, which hath from God the promiſe of <hi>divine aſſiſtance,</hi> and is <hi>actually aſſiſt<g ref="char:EOLhyphen"/>ed</hi> by the holy Ghoſt, and <hi>guided into all Truth;</hi> muſt <hi>propoſe the Truths:</hi> other<g ref="char:EOLhyphen"/>wiſe, <note place="margin">Jo. 16. 13</note> how ſhall we know in any Church,
+<pb n="14" facs="tcp:170218:10"/> or, how ſhall it be certain to us, <hi>certitu<g ref="char:EOLhyphen"/>dine Fidei, by the certainty of Faith;</hi> that our Tranſlators, being <hi>fallible Men,</hi> have done us right in their Tranſlation of the Scriptures, which we receive and believe as the word of God? <hi>Selah!</hi> O <hi>Meditation!</hi>
+               </p>
+               <p>For, Whatſoever was promiſed to the Apoſtles, as <hi>principal Members of the Church;</hi> muſt it ſelf pertain to the Church, for whoſe cauſe and ſake it was promi<g ref="char:EOLhyphen"/>ſed. And there is alwaies the ſame need of <hi>divine guidance</hi> or <hi>aſſiſtance;</hi> be<g ref="char:EOLhyphen"/>cauſe the holy Scriptures cannot be right<g ref="char:EOLhyphen"/>ly Underſtood, but by the <hi>aſſiſtance</hi> of the ſame <hi>Spirit,</hi> according to whoſe Dictates they were firſt written. And the Scriptures being publikely given, and to all; the direction likewiſe for the right Underſtanding of them, muſt be <hi>proportionaeble:</hi> that is, be publike, and <hi>uuiverſally propoſed,</hi> even in the view of all, to all. Moreover, <hi>Interpretation</hi> is a Gift given for the good of the Church, as alſo all ſuch <hi>Graces</hi> are: and is not a Gift ending in the good of the Perſon, to whom it is given.</p>
+               <p>Hence it ſtands upright, that <hi>Faith</hi> is <hi>divine</hi> in the <hi>Cauſe</hi> or <hi>Author; divine</hi> in the <hi>Infuſion; divine</hi> in the <hi>Adheſion;</hi> and laſtly, <hi>divine</hi> in the <hi>reaſon of the Adheſion,</hi>
+                  <pb n="15" facs="tcp:170218:10"/> For, therefore we muſt <hi>firmly aſſent,</hi> and inviolably <hi>adhere</hi> unto the <hi>Truths of God,</hi> becauſe they were <hi>revealed by God,</hi> who can not erre in himſelf, or <hi>directly</hi> cauſe others to erre, and <hi>propoſed by his Church,</hi> to the which he hath given and promi<g ref="char:EOLhyphen"/>ſed the Holy Ghoſt, and which he cer<g ref="char:EOLhyphen"/>tainly aſſiſteth according to his gracious Promiſe: all <hi>ordinate Proceedings</hi> be<g ref="char:EOLhyphen"/>ing alwayes conformable to their <hi>Be<g ref="char:EOLhyphen"/>ginnings:</hi> And moreover, the Goſpel of St <hi>Matthew</hi> ending thus; <hi>And lo, I am</hi> 
+                  <note place="margin">Matth. 28. 20.</note> 
+                  <hi>with you alway, even unto the end of the World:</hi> alſo, this promiſe being then made, when our Lord Chriſt command<g ref="char:EOLhyphen"/>ed his Diſciples in the ſame <hi>Verſe,</hi> that they ſhould <hi>teach all Nations to obſerve all Things commanded by him.</hi> Which e<g ref="char:EOLhyphen"/>vidences, that his <hi>efficacious aſſiſtance</hi> was promiſed, as neceſſary to the <hi>obſer<g ref="char:EOLhyphen"/>vation</hi> of all thoſe Things.</p>
+               <p>My <hi>Appeal</hi> is at thy Bar, O God: <hi>give Sentence.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="16" facs="tcp:170218:11"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>The Third Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe third <hi>Matter</hi> of the <hi>Appeal,</hi> is. I maintain, That as theſe <hi>disfigur'd-fac'd</hi> and unlucky-look't <hi>Hypocrites,</hi> neither Preach nor have <hi>true Faith,</hi> ſo they neither have nor Preach <hi>true Repentance.</hi> And I am ſo tongu'd and faith'd: Becauſe theſe devout Moun<g ref="char:EOLhyphen"/>tebanks have not the leaſt knowledge of, or acquaintance with <hi>true Evangelical Repentance,</hi> or with the true <hi>Conditions</hi> and <hi>Properties</hi> of it: as it is manifeſt by the Conſideration of Repentance, thus repreſented in it's own and proper Co<g ref="char:EOLhyphen"/>lours.</p>
+               <p>
+                  <hi>Repentance is a gracious Gift of God, be<g ref="char:EOLhyphen"/>ing a moſt hearty ſorrow for our Sins paſt: which hath for it's motive the pure love of God, and is joyned with a firm Purpoſe of not ſinning hereafter.</hi> The <hi>Sorrow</hi> Repen<g ref="char:EOLhyphen"/>tance hath, <hi>à ſe &amp; ex ſuâ naturâ,</hi> as it is Repentance: and the <hi>purpoſe</hi> Repen<g ref="char:EOLhyphen"/>tance hath, as Repentance is <hi>connexed</hi> with <hi>Prudence,</hi> whoſe genuine and pro<g ref="char:EOLhyphen"/>per work is, to beware of Evils which may come hereafter.</p>
+               <pb n="17" facs="tcp:170218:11"/>
+               <p> The <hi>Sorrow</hi> diſcovers it ſelf, <hi>inwardly</hi> and <hi>outwardly: inwardly,</hi> to the Perſon in whom it is; and <hi>outwardly,</hi> to all peo<g ref="char:EOLhyphen"/>ple, ſcandalized, or farther injured, by our Sins: that our Repentance may, in ſome ſort, <hi>adequately</hi> anſwer to, and e<g ref="char:EOLhyphen"/>ven our Tranſgreſſions.</p>
+               <p>The <hi>Sorrow</hi> diſcovers it ſelf <hi>inwardly,</hi> firſt, by <hi>a most hearty Wiſh, that we never had ſinned againſt our moſt good God,</hi> (whereby, as far as in us lies, we unravel and cancel our Sin, yea revoke, and, in a manner, render undone the <hi>Act</hi> of it; this being the moſt eminent reaſon, that Repentance is accepted and required as the <hi>reconciling Vertue;)</hi> and ſecondly, the <hi>Sorrow</hi> diſcovers it ſelf <hi>inwardly,</hi> by <hi>a moſt vehement Hatred and abomination of ſin;</hi> according to the Scripture-Pſal<g ref="char:EOLhyphen"/>miſt, <note place="margin">Pſa. 119. 163. <hi>Text Hebr.</hi>
+                  </note> 
+                  <hi>I hate and abhor lying: but thy Law do I love.</hi> The <hi>Original word</hi> here tran<g ref="char:EOLhyphen"/>ſlated <hi>lying<g ref="char:punc">▪</g>
+                  </hi> is <hi>aven,</hi> and ſignifies <hi>lying,</hi> not as <hi>ſuch a ſin,</hi> diſtinguiſhed from o<g ref="char:EOLhyphen"/>thers by that name, but as <hi>Sin in common,</hi> and as all kinds of Sin are a kind of <hi>lying</hi> againſt God, who is <hi>Primum Ens, prima <g ref="char:V">Ʋ</g>eritas, prima Bonitas, the firſt Thing, the firſt Truth, the firſt Goodneſs.</hi> And therefore, the <hi>Vulgar Latin</hi> unſheaths it: <note place="margin">Edit. Lat.</note> Iniquitatem odio habui, &amp; abominatus ſum, <hi>I hated, and abominated iniquity.</hi>
+                  <pb facs="tcp:170218:12"/> And as a man <hi>abominates</hi> a Toad, as con<g ref="char:EOLhyphen"/>trary to his natural conſtitution and pro<g ref="char:EOLhyphen"/>penſion: ſo (but in a more high mea<g ref="char:EOLhyphen"/>ſure) we muſt abominate Sin, as the only-Contrary to the <hi>Nature, Holi<g ref="char:EOLhyphen"/>neſs,</hi> and moſt excellent <hi>Goodneſſe</hi> of God.</p>
+               <p>The <hi>Sorrow</hi> diſcovers it ſelf <hi>outward<g ref="char:EOLhyphen"/>ly,</hi> by newneſs of Life, and by <hi>Satisfacti<g ref="char:EOLhyphen"/>en</hi> for injuries committed in <hi>Word</hi> or <hi>Work;</hi> in <hi>Goods, Body,</hi> or <hi>Good-Name.</hi> For, he that repents, ought to undo the Work of Sin to his utmoſt ability; that is, as far as he is able, to make up the rents and breaches cauſed by Sin. Verily, he ought not to endure, that there ſhould remain any ſhape, colour, or foot-ſtep of his ſins. If he does, he being able to re<g ref="char:EOLhyphen"/>move them; his <hi>Wiſh, Abomination,</hi> and <hi>Sorrow</hi> or <hi>Diſplicence,</hi> are all idle, vain, and void. Wherefore this was the god<g ref="char:EOLhyphen"/>ly practiſe of <hi>Zacheus,</hi> and it was graci<g ref="char:EOLhyphen"/>ouſly entred and anſwer'd by Chriſt: <hi>And Zacheus ſtood up, &amp; ſaid unto the Lord, Behold, Lord, the half of my goods I give to</hi> 
+                  <note place="margin">Luk. 19. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>the poor; and if I have taken any thing from any man by falſe accuſation, I reſtore him four-fold. And Jeſus ſaid unto him, This</hi> 
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9.</note> 
+                  <hi>day is ſalvation come to this houſe, forſo<g ref="char:EOLhyphen"/>much as he alſo is the Son of Abraham.</hi> The Perſon injured ſuffers in the taking;
+<pb n="19" facs="tcp:170218:12"/> in the detaining of <hi>Things</hi> properly his; in his troubled minde and body; in his name diſhonour'd, and ſtained. Which is the reaſon, ſay the <hi>Caſuists,</hi> of a <hi>four<g ref="char:EOLhyphen"/>fold Reſtitution.</hi>
+               </p>
+               <p>The <hi>Purpoſe</hi> involves an excluſion of two <hi>Wills,</hi> the <hi>Explicite will of ſinning,</hi> and the <hi>Implicite will of ſinning.</hi> That <hi>will</hi> is an open <hi>will</hi> which ſtands up, and awakes, yea, calls up <hi>occaſions of ſinning:</hi> This <hi>will</hi> is a cloſe <hi>will,</hi> that lies, as it were, aſleep, in the bottom of the Heart, and is called up and awaked by <hi>occaſions.</hi> The pious King with a Kingly Reſolution re<g ref="char:EOLhyphen"/>ſolves againſt, and excludes both: <hi>I ſaid,</hi> 
+                  <note place="margin">Pſ. 39. 1.</note> 
+                  <hi>I will take heed to my waies, that I ſin not with my tongue: I will keep my mouth with a bridle.</hi> The <hi>old Latin Bibles</hi> have, ut <note place="margin">Vetus Interp.</note> non delinquam in lingua mea, <hi>that I ſlip not with my tongue.</hi> For, Delicta are thoſe faults which the <hi>Septuagint</hi> call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>defects, ſlips,</hi> or <hi>ſlidings.</hi> Po<g ref="char:EOLhyphen"/>ſui <note place="margin">Sept.</note> ori meo cuſtodiam: ſo the <hi>Latin: I have ſet a guard at the Door of my mouth.</hi> His <hi>Purpoſe</hi> is <hi>firm,</hi> ſtrong, and of a large extent: and, as wiſely and readily un<g ref="char:EOLhyphen"/>dertaken, ſo reſolutely and wiſely main<g ref="char:EOLhyphen"/>tained.</p>
+               <p>Theſe <hi>Novelliſts</hi> are ſo great Stran<g ref="char:EOLhyphen"/>gers to <hi>Satisfaction,</hi> that they neither own it nor know it: yea, when they
+<pb n="20" facs="tcp:170218:13"/> ſhould ſatisfie for old Wrongs, in lieu therof they adminiſter and multiply new Injuries. <hi>Give judgement,</hi> O King of Men and Angels.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>The fourth Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe fourth <hi>Matter</hi> of the <hi>Appeal</hi> comes forth. My conſtant <hi>Maxim</hi> is, Theſe new-found wilde people, al<g ref="char:EOLhyphen"/>though they continually <hi>take in vain</hi> the ſacred <hi>Name</hi> of the moſt <hi>holy Spirit of God,</hi> (who is <hi>Love</hi> or <hi>Charity,)</hi> yet have not <note place="margin">1 Joh. 4 16.</note> 
+                  <hi>true Charity.</hi>
+               </p>
+               <p>
+                  <hi>True Charity is the Vertue by which we love God above all Things, for himſelf, and for the infinite Excellencies in him; and by the which alſo, we love our neighbours for God, and with relation to the divine Com<g ref="char:EOLhyphen"/>mands.</hi> Now we find in the large Vo<g ref="char:EOLhyphen"/>lume of our own long <hi>Experience,</hi> that ſince this <hi>Generation of Vipers</hi> hath crept out of darkneſs into the light, <hi>true Cha<g ref="char:EOLhyphen"/>rity,</hi> hath been almoſt quite extinct, and there hath come, by a certain contagion, a kind of the flowing of the Gaul amongſt
+<pb n="21" facs="tcp:170218:13"/> all ſorts of people. No mortal<g ref="char:punc">▪</g>Eye e<g ref="char:EOLhyphen"/>ver ſaw, no Ear heard of, from the firſt entrance of <hi>Chriſtian Faith</hi> into this Na<g ref="char:EOLhyphen"/>tion, leſs <hi>operations</hi> and <hi>expreſſions</hi> of <hi>true Charity</hi> amongſt us, than at this preſent. We finde ſome men to love as connexed in bloud, in neighbourhood, in good fel<g ref="char:EOLhyphen"/>lowſhip as they call it, as obliged by be<g ref="char:EOLhyphen"/>nefits, as being of the ſame <hi>Sect</hi> or <hi>Facti<g ref="char:EOLhyphen"/>on:</hi> but who loves from a <hi>ſupernatural Principle,</hi> or, as inflamed by true <hi>charity?</hi> If ſuch were obvious, <hi>we ſhould know them</hi> 
+                  <note place="margin">Matt. 7. 16.</note> 
+                  <hi>by their fruits.</hi>
+               </p>
+               <p>Therefore, whereas the Things which we know by experience, thou, O God, muſt needs know in thine <hi>infinite Light,</hi> and there muſt of neceſſity be a moſt ex<g ref="char:EOLhyphen"/>cellent conformity betwixt the <hi>Truth of Things</hi> and the <hi>Truth of the divine Under<g ref="char:EOLhyphen"/>ſtanding:</hi> To thee, as the <hi>Supreme Rule</hi> and <hi>Meaſure of all Things, I appeal.</hi>
+               </p>
+               <p>And yet, we all know, that <hi>true Faith</hi> is manifeſted by <hi>true Charity:</hi> and that the Apoſtle requires of us, <hi>Faith which worketh by love.</hi> The <hi>Textual Word,</hi> is <note place="margin">Galat. 5. 6.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Charity.</hi> Yea, It is as ſtrange for <hi>Faith</hi> to be, without the <hi>motions</hi> and <hi>workings</hi> of <hi>Charity;</hi> as for Fire to <hi>give light,</hi> and not to <hi>burn.</hi> Which was the reaſon why <hi>John</hi> the Baptiſt was called by our ever-bleſſed Saviour, <hi>a burning</hi> 
+                  <note place="margin">Jo. 5. 3<g ref="char:punc">▪</g>
+                  </note>
+                  <pb n="22" facs="tcp:170218:14"/> 
+                  <hi>and a ſhining light, lamp, or candle:</hi> when<g ref="char:EOLhyphen"/>as to <hi>give light,</hi> and to <hi>burn</hi> (in fire) have the ſame moment of beginning, and ac<g ref="char:EOLhyphen"/>cording to <hi>nature</hi> the ſame continu<g ref="char:EOLhyphen"/>ance.</p>
+               <p>
+                  <hi>Charity</hi> is our <hi>evidence</hi> that we live <hi>ſpi<g ref="char:EOLhyphen"/>ritually.</hi> Indeed, <hi>The juſt ſhall live by</hi> 
+                  <note place="margin">Rom. 1. 17.</note> 
+                  <hi>faith.</hi> But as life is diſcovered by ſome kinde of <hi>motion:</hi> ſo the <hi>life of Faith</hi> is known by the neceſſary <hi>motions of Cha<g ref="char:EOLhyphen"/>rity.</hi> Wherefore, if we have not <hi>Chari<g ref="char:EOLhyphen"/>ty,</hi> we are <hi>as tinkling cymbals;</hi> and <hi>have</hi> (as <hi>the Church in Sardis) a name that we</hi> 
+                  <note place="margin">1 Cor. 13. 1. Rev. 3. 1.</note> 
+                  <hi>live, but are dead.</hi>
+               </p>
+               <p>
+                  <hi>Charity</hi> is the Vertue <hi>directing</hi> and guiding <hi>moral Vertues</hi> to their <hi>End,</hi> and <hi>ſpiritualizing</hi> them. Which Vertues would otherwiſe be <hi>meerly-moral</hi> and heatheniſh. It is the Vertue cauſing that excellent <hi>concatenation</hi> and <hi>connexion,</hi> which is betwixt Vertues <hi>thus-perfected,</hi> guided, and <hi>directed:</hi> conformably to St. Paul: <hi>And above all theſe things</hi> 
+                  <note place="margin">Coloſſ. 3. 14.</note> 
+                  <hi>put on charity, which is the bond of perfect<g ref="char:EOLhyphen"/>neſs.</hi>
+               </p>
+               <p>
+                  <hi>Charity</hi> is the <hi>end</hi> of all God's Com<g ref="char:EOLhyphen"/>mandements. It is the language of St. Paul: <hi>Now the end of the Commandement</hi> 
+                  <note place="margin">1 Tim. 1. 5.</note> 
+                  <hi>is charity, out of a pure heart, and of a good conſcience, and of faith unfeigned.</hi> The word in the <hi>Apoſtolical Tongue,</hi> for
+<pb n="23" facs="tcp:170218:14"/> 
+                  <hi>unfeigned,</hi> is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>unhypocritical.</hi> And he ſayes, <hi>Faith being without Chari<g ref="char:EOLhyphen"/>ty, which is the end of the Commandment, is hypocritical.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>The fifth Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe fifth <hi>Matter</hi> of the <hi>Appeal,</hi> ſuc<g ref="char:EOLhyphen"/>ceeds. Theſe little Baby-Chriſti<g ref="char:EOLhyphen"/>ans, theſe Pygmie-Saints, theſe Fairy blew cap't Night-Dancers, do ſtile themſelves the <hi>Diſciples of Chriſt,</hi> and the <hi>Servants of God;</hi> yea impudently ſay, that they are the only <hi>holy-ones</hi> that tru<g ref="char:EOLhyphen"/>ly <hi>glorifie God,</hi> or, that give glory <hi>(glau<g ref="char:EOLhyphen"/>ry</hi> they call it) unto their <hi>dear Father.</hi> I deny, that they are <hi>God's Servants,</hi> or <hi>Christ's Diſciples,</hi> or, that they <hi>glorifie God:</hi> except that by their leaving, and withdrawing themſelves from the <hi>Order of</hi> his <hi>Grace and Mercy,</hi> they <hi>glorifie him</hi> by their falling under the <hi>Order</hi> of his <hi>Iuſtice.</hi> And I <hi>appeal</hi> unto the <hi>Maſter,</hi> whom they pretend to <hi>ſerve</hi> and <hi>follow,</hi> and who <hi>knoweth</hi> his own <hi>Servants,</hi> and <note place="margin">2 Tim. 2 19.</note> 
+                  <hi>them that are his.</hi>
+               </p>
+               <pb n="24" facs="tcp:170218:15"/>
+               <p> My Denyal ſtandeth upon this <hi>Ground. Herein is my Father glorified, that ye bear</hi> 
+                  <note place="margin">Jo. 15. 8.</note> 
+                  <hi>much fruit, ſo ſhall ye be my Diſciples.</hi>
+               </p>
+               <p>(What corrupted and miſerable <hi>fruit</hi> theſe dirty Saints bear, God knowes; and <hi>thoſe who have eies to ſee, ſee;</hi> and <hi>they that have ears to hear, hear.)</hi>
+               </p>
+               <p>And I build upon this <hi>Ground,</hi> firſt: <hi>God is more glorified by our being more his according to his Will: but we are thus more his, by our keeping his commandements:</hi> not by the making of uncomely faces, or the faſhioning our waxen and pliable mouths to the miſdiſcerning ears of the People, in a whining and phantaſtical Tone. To this excellent purpoſe, God himſelfe ſayes: <hi>Now therefore if ye will obey my</hi> 
+                  <note place="margin">Exod. 19. 5.</note> 
+                  <hi>voice indeed, and keep my covenant, then ye ſhall be a peculiar treaſure unto me above all People.</hi> A Prince is <hi>glorified</hi> in the mul<g ref="char:EOLhyphen"/>titude of his <hi>obedient</hi> and faithfull Ser<g ref="char:EOLhyphen"/>vants; and in the riches and fulneſs of his <hi>Treaſure.</hi>
+               </p>
+               <p>I build, ſecondly: <hi>God is then truly glori<g ref="char:EOLhyphen"/>fied, when we do that which he truly requires of us, but he truly requires of us to bear much fruit:</hi> not to ſpend our ſap in idle and vain ſhows, &amp; bloſſoms of ſpecious Words and <hi>Profeſſions.</hi> So ſpeaks God again. <hi>And now,</hi> 
+                  <note place="margin">Deut. 10. 12.</note> 
+                  <hi>Iſrael, what doth the Lord thy God require of thee, but to fear the Lord thy God, to</hi>
+                  <pb n="25" facs="tcp:170218:15"/> 
+                  <hi>walk in all his waies, and to love him, and to ſerve the Lord thy God with all thy heart, and with all thy ſoul, To keep the comman<g ref="char:EOLhyphen"/>dements</hi> 
+                  <note place="margin">v. 13.</note> 
+                  <hi>of the Lord and his Statutes, which I command thee this day, for thy good?</hi> And a maſter is <hi>glorified</hi> in the due and ready performance of what he <hi>requires</hi> and <hi>commands.</hi>
+               </p>
+               <p>I build, thirdly: <hi>God is moſt glorified by that which he prefers before all other Things; but God prefers ſolid obedience be<g ref="char:EOLhyphen"/>fore other Things:</hi> (and <hi>Faith</hi> is made ac<g ref="char:EOLhyphen"/>ceptable in adult perſons, by the <hi>work<g ref="char:EOLhyphen"/>ing</hi> of it.) Thus the Scripture, on God's behalf. <hi>And Samuel ſaid, Hath the Lord</hi> 
+                  <note place="margin">1 Sam. 15. 22.</note> 
+                  <hi>as great delight in burnt-offerings, and ſa<g ref="char:EOLhyphen"/>crifices, as in obeying the Voice of the Lord? behold, to obey is better than ſacrifice, and to hearken, than the fat of rams.</hi> The words were ſpoken to <hi>Saul,</hi> becauſe he had reſerved the fat beaſts of the <hi>Amale<g ref="char:EOLhyphen"/>kites</hi> for ſacrifices, in oppoſition to the divine <hi>preference</hi> and command. <hi>Obedi<g ref="char:EOLhyphen"/>ence</hi> pertains to the <hi>moral Law;</hi> Sacrifice, to the <hi>ceremonial:</hi> and the <hi>moral Law</hi> is of all, the moſt deeply rooted. Now this apiſh behaviour of our blind-ſoul'd Hypocrites, is a moſt wretched piece of low-born <hi>Ceremony,</hi> and <hi>the ſacrifice of</hi> pure <hi>Fools.</hi>
+               </p>
+               <p>I build, fourthly: <hi>God is most especi<g ref="char:EOLhyphen"/>ally</hi>
+                  <pb n="26" facs="tcp:170218:16"/> 
+                  <hi>glorified by thoſe things, which he moſt preſſes to the Heart: but he moſt preſſes to the heart, the ſerious and earneſt keeping of his commandements. My Son,</hi> 
+                  <note place="margin">Pro. 3. 1.</note> 
+                  <hi>forget not my Law: but let thine heart keep my commandements. Let not mercy and</hi> 
+                  <note place="margin">v. 3.</note> 
+                  <hi>truth forſake thee: binde them about thy neck: write them upon the table of thine Heart. Truſt in the Lord with all thine</hi> 
+                  <note place="margin">v. 5.</note> 
+                  <hi>Heart.</hi> Kings are greatly <hi>glorified</hi> by their having the ſureſt and ſtrongeſt Holds, Forts, or Cittadels: and having the Tower or Caſtle of a City, we com<g ref="char:EOLhyphen"/>mand the whole City.</p>
+               <p>I build, laſtly: <hi>God is moſt glorified by that which is the end of other Duties: (be<g ref="char:EOLhyphen"/>cauſe the end, as the End, is more perfect, noble and worthy than the Means:) as the end of Prayer, Faſting, Hearing of Ser<g ref="char:EOLhyphen"/>mons, Receiving of Sacraments, and the like; is our bearing of much holy fruit, and our walking more and more agreeably to God's commandements.</hi> Let the Scripture ſpeak, <hi>Is not this the fast that I have cho<g ref="char:EOLhyphen"/>ſen,</hi> 
+                  <note place="margin">Iſ. 58. 6.</note> 
+                  <hi>to looſe the bands of wickedneſs, to un<g ref="char:EOLhyphen"/>do the heavy burdens, and to let the oppreſ<g ref="char:EOLhyphen"/>ſed go free, and that ye break every yoke? Is it not to deal thy bread to the hungry, and</hi> 
+                  <note place="margin">v. 7.</note> 
+                  <hi>that thou bring the poor that are caſt out, to thy houſe? When thou ſeeſt the naked, that thou cover him, and that thou hide not thy</hi>
+                  <pb n="27" facs="tcp:170218:16"/> 
+                  <hi>ſelf from thine own fleſh?</hi> It ſpake firſt of <hi>hypocritical Faſts,</hi> deſtitute of agreeable and ſubſequent Practiſe.</p>
+               <p>Now that theſe <hi>Ghoſts of the ancient Heretikes,</hi> are a dull, ſtupid, and moſt block-and-beetle-headed Rout, <hi>drink<g ref="char:EOLhyphen"/>ing</hi> horrible <hi>Sin like water,</hi> and yet fain<g ref="char:EOLhyphen"/>tingly <hi>ſtraining,</hi> in the ſight of Men, <hi>at the</hi> little <hi>Gnats</hi> of Prohibition: is to me and my Senſe, moſt clear, moſt evident.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>The Sixth Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe ſixth <hi>Matter</hi> of the <hi>Appeal,</hi> takes place. I object, That the <hi>ſeven</hi> great <hi>Heads of Sin</hi> recounted by the <hi>Ancients,</hi> are wondrouſly apparent in the <hi>preaching Leaders</hi> of theſe <hi>Factions,</hi> which have ri<g ref="char:EOLhyphen"/>ſen ſince the firſt beginning of our un<g ref="char:EOLhyphen"/>happy Differences. We ſee, but let God judge.</p>
+               <p>The <hi>ſeven</hi> great <hi>Heads,</hi> are <hi>Pride, Anger, Envy, Luſt</hi> or <hi>Luxury, Covetouſ<g ref="char:EOLhyphen"/>neſs, Gluttony,</hi> and <hi>Sloth, when the dan<g ref="char:EOLhyphen"/>gerous and painfull Works of ſound Religion are to be ſtrongly and valiantly performed.</hi>
+                  <pb n="28" facs="tcp:170218:17"/> Theſe the <hi>Ancients</hi> have, upon excellent <hi>Grounds,</hi> ſet in oppoſition to the <hi>ſeven Gifts of the Holy Ghoſt;</hi> and have found firſt, adumbrated in the <hi>Old Teſtament,</hi> by the <hi>ſeven dippings of Naaman;</hi> and af<g ref="char:EOLhyphen"/>terwards, <note place="margin">2 Kings 5. 14. Luk. 8. 2. Mar. 16. 9.</note> expreſſed in the <hi>New,</hi> by <hi>our Saviour his caſting ſeven Devils out of Ma<g ref="char:EOLhyphen"/>ry Magdalene.</hi>
+               </p>
+               <p>In <hi>evident Things,</hi> Proof Ceaſes. Was ever <hi>Pride</hi> more ſwelling and triumphant in any of thoſe who never <hi>learned Chriſt,</hi> than it is now in theſe <hi>ſeven-headed Mon<g ref="char:EOLhyphen"/>ſters?</hi> This Evil travels with the Nati<g ref="char:EOLhyphen"/>on, Witneſs the Cloak-bagg-Religion'd <hi>Houſe-Preachers,</hi> ſuperſtitiouſly called <hi>Doctor,</hi> at the Cloth market in <hi>Germany:</hi> Alſo, the blazing-ey'd, and high-tongu'd <hi>Speaker in private</hi> not <hi>Black-well,</hi> or black in a good ſenſe, but as falſe and <hi>black</hi> as <hi>Hell.</hi> Was <hi>Anger</hi> ever more furious, <note place="margin">See Rev. 12. 3. 17. 3.</note> more fierce and cruel, more reſtleſs, more full of Strange Pretences, Devices, and Stratagems, more damnably lying, than in theſe, when their <hi>Evil Spirits</hi> are <hi>raiſ<g ref="char:EOLhyphen"/>ed</hi> or <hi>moleſted?</hi> Was ever <hi>Envy</hi> more miſchievous than in theſe, when they ſee they are out-done in the judgement of the People, upon whoſe lips and tren<g ref="char:EOLhyphen"/>chers they depend? Do not theſe <hi>Lions</hi> moſt furiouſly roar, when the Cock (the Bird of the Day) crows near them?
+<pb n="29" facs="tcp:170218:17"/> Was <hi>Luſt</hi> ever more <hi>luſtful,</hi> and <hi>luxu<g ref="char:EOLhyphen"/>rious?</hi> What manifold Examples we have had of it? And now, O thou new-religion'd Sin, ſo like unto <hi>Rape,</hi> I remember who committed thee, and the very Place. Was ever <hi>covetouſneſſe</hi> more exacting? Go, and ask <hi>All People on</hi> Engliſh <hi>Earth do dwell.</hi> Was <hi>Glutto<g ref="char:EOLhyphen"/>ny</hi> ever more deſiring, and gaping after varieties of meats and ſawcies? And yet, they preach to the lamentable people <hi>de<g ref="char:EOLhyphen"/>nyal of the World, and Pleaſures.</hi> Was ever <hi>Sloth</hi> more <hi>ſlothful,</hi> when <hi>God's work</hi> requires <hi>Christian boldneſs, courage and Fortitude?</hi> For, the Nature of <hi>Heretical Spirits</hi> is ſuch, that, <hi>their <g ref="char:V">Ʋ</g>nderſtandings being drawn into the faction of their Wills,</hi> thy confidently and eaſily adhere to that from which their Livelihood ariſes, and ſoon after, (their Underſtandings and Wills, as it were, growing together,) verily believe it as the Truth of God.</p>
+               <p>And to touch a little upon the firſt <hi>Head,</hi> that the Reader may in like man<g ref="char:EOLhyphen"/>ner comment upon the reſt. Theſe laſt-Ag'd <hi>Prophets</hi> profeſſe themſelves to bee the Teachers of <hi>Chriſtian Religion.</hi> And Chriſt propoſing himſelf as an <hi>Example,</hi> invites us by his Example to Humility, as to the moſt proper badge of Chriſti<g ref="char:EOLhyphen"/>ans. <hi>Take my yoke upon you, and learn of</hi> 
+                  <note place="margin">Matth. 11. 29.</note>
+                  <pb n="30" facs="tcp:170218:18"/> 
+                  <hi>me, for I am meek and lowly in heart: and ye ſhall find reſt into your Souls.</hi> It is in the <hi>Latin Bible,</hi> humilis corde, <hi>humble in heart.</hi> And having <hi>waſhed his Diſciples</hi> 
+                  <note place="margin">Vetus Interp.</note> 
+                  <hi>feet,</hi> which was an <hi>Act</hi> of profound <hi>Hu<g ref="char:EOLhyphen"/>mility,</hi> he ſpeaks thus: <hi>I have given you an example, that ye ſhould do as I have done to</hi> 
+                  <note place="margin">Jo. 13. 15.</note> 
+                  <hi>you.</hi> An humble man will throw him<g ref="char:EOLhyphen"/>ſelf at the very feet, even of the loweſt and humbleſt of People.</p>
+               <p>And the Degrees of Chriſt's Humili<g ref="char:EOLhyphen"/>ty, and of his deſcending ſtill beneath himſelf, are ſuperlatively admirable. He firſt deſcends from Heaven into the womb of a Virgin: our Mothers womb being the <hi>place of Men.</hi> Then is he born in a Stable, being the <hi>place of Beaſts:</hi> (be<g ref="char:EOLhyphen"/>cauſe he came to ſeek men changed into Beaſts.) Afterwards, <hi>he humbled himſelf,</hi> 
+                  <note place="margin">Philip. 2. 8.</note> 
+                  <hi>and became obedient unto death, even the death of the Croſs:</hi> and the Croſs was the <hi>place of wicked men,</hi> as being worſe than beaſts. After this, he is put into a Se<g ref="char:EOLhyphen"/>pulchre, being the <hi>place of dead men,</hi> yet ſtill worſe if they die wicked, becauſe they cannot repent. Laſtly, he <hi>deſcends into Hell,</hi> which the Apoſtle calls the <hi>lower parts of the earth.</hi> 
+                  <note place="margin">Eph. 4. 9.</note>
+               </p>
+               <p>The Truth is. <hi>Heathens</hi> and <hi>Heretikes</hi> are altogether uncapable of <hi>true Charity,</hi> and of <hi>true Humility:</hi> as all <hi>Ages</hi>
+                  <pb n="31" facs="tcp:170218:18"/> have teſtified, the one after the o<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>The ſeventh Matter in Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </argument>
+               <p>THe ſeventh <hi>Matter</hi> of the <hi>Appeal,</hi> calls for entrance. I charge upon theſe new-vaumpt Walkers: That they are the moſt <hi>High</hi> and <hi>Mighty</hi> Scan<g ref="char:EOLhyphen"/>dalizers of others, and the greateſt <hi>Blaſ<g ref="char:EOLhyphen"/>phemers</hi> and Blemiſhers of <hi>Reputation,</hi> that were ever known amongſt Men. Others are very ſenſible of it, and know it. But I have had a large <hi>portion</hi> of Experience in this kinde.</p>
+               <p>Witneſs a Curſed Paper, which theſe falſe-mouth'd and rabid Preachers have diſpatcht after me in all places where<g ref="char:EOLhyphen"/>ſoever I deſired to ſit down; and which contains moſt horrible Slanders: Some whereof they have at laſt withdrawn, for their apparent and moſt deviliſh fal<g ref="char:EOLhyphen"/>ſhood; others they keep on foot. As, that I own'd and hid a <hi>Box of Crucifixes:</hi> whereas, I <hi>appeal to God my King</hi> and <hi>Judge,</hi> I have not been the owner of a
+<pb n="32" facs="tcp:170218:19"/> 
+                  <hi>Crucifix</hi> theſe twenty years; neither have I had a <hi>Crucifix</hi> in my hands or poſſeſſi<g ref="char:EOLhyphen"/>on. And (which is a moſt deplorable Buſineſs, and a ſadding-Heart Ulcer of theſe Times) I am <hi>demonſtratively cer<g ref="char:EOLhyphen"/>tain,</hi> that the two perſons whom they ſuborned to ſwear to it, (wherof the <hi>firſt Mover</hi> was the troubled Husband of my Child's Nurſe, which She had moſt unchriſtianly abus'd, and almoſt ſtarv'd: and was therefore taken from her: for, their Accuſations are the lamentable Ef<g ref="char:EOLhyphen"/>fects of blind, mad, and <hi>unrighteous Paſ<g ref="char:EOLhyphen"/>ſion; the wrath of man working not the righ<g ref="char:EOLhyphen"/>teonſneſs</hi> 
+                  <note place="margin">James 1. 20.</note> 
+                  <hi>of God:)</hi> know not what a <hi>Cru<g ref="char:EOLhyphen"/>cifix</hi> is. Likewiſe, that I uſed fordid words with an Oath, concerning a neer Friend of mine; which, <hi>I appeal to God,</hi> I never did: (and ſuch-like:) And all my Friends know, that my mouth is not ſet or tun'd to Oaths.</p>
+               <p>Now again, Certain Reliques of this Viperous Brood, have taken from the mouth of a Water-man's diſcontented Wiſe, having been (by the Report of the People where ſhe lives, high and low) a lewd-liv'd woman, (it is well known where her <hi>Heart</hi> was:) and having an impudent face, and a rotten Heart and Body; That I never ſay my Prayers. And this now, ſtands up to face me.</p>
+               <pb n="33" facs="tcp:170218:19"/>
+               <p> I am heartily ſorry, that I muſt give a publike Account of my Prayers, and <hi>pri<g ref="char:EOLhyphen"/>vate Devotions.</hi> But the preſent Buſineſs importunes it. Wherefore, that theſe conceited, phantaſtical, blockiſh, ſtock and block-retaining, beetle-headed, wooden-brow'd, Buſy-bodies in Reli<g ref="char:EOLhyphen"/>ligion, may know that our <hi>appealing to God,</hi> and our <hi>calling of God to witneſs,</hi> in theſe <hi>circumstances;</hi> is not unholy (nor deſerves their affected compoſing of their mouths, and crying fie, fie,) but <hi>Apoſto<g ref="char:EOLhyphen"/>lical:</hi> I ſhall begin with St. <hi>Paul: The God and Father of our Lord Jeſus Chriſt,</hi> 
+                  <note place="margin">2 Cor. 11. 31.</note> 
+                  <hi>which is bleſſed for evermore, knoweth that I lie not.</hi> I never miſs to pray, at the leaſt, twice a Day; likewiſe, to exerciſe <hi>Acts</hi> of <hi>Sorrow for Sin,</hi> ſeconded with the <hi>Wiſh, Abomination,</hi> and <hi>Purpoſe</hi> be<g ref="char:EOLhyphen"/>fore-mentioned; and of the <hi>Love of God,</hi> as often: likewiſe, to unfold before God, in manner of Thanksgiving, a Catalogue of the chief <hi>Bleſſings</hi> and <hi>Deliverances,</hi> wherewith he hath moſt graciouſly aſſi<g ref="char:EOLhyphen"/>ſted me, both by Sea and Land: Alſo, to <hi>ſacrifice</hi> my ſelf to God, and to ſing <hi>Scri<g ref="char:EOLhyphen"/>pture-hymns</hi> of his Praiſes. Moreover, I endeavour every day, to <hi>pray continually,</hi> or <hi>without ceaſing,</hi> by uſing <hi>Aspirations</hi> 
+                  <note place="margin">1 Theſſ. 5. 17.</note> (thus <hi>Myſtical Divinity</hi> names them) upon emergent or occurrent occaſions:
+<pb n="34" facs="tcp:170218:20"/> Which I ſhall here depoſit for the uſe of others.</p>
+               <p>As, when I awake from ſleep in the morning, <hi>My voice ſhalt thou hear in the</hi> 
+                  <note place="margin">Pſal. 5. 3.</note> 
+                  <hi>morning, O Lord, in the morning will I di<g ref="char:EOLhyphen"/>rect my prayer unto thee, and will look up. For thou art not a God that hath pleaſure in</hi> 
+                  <note place="margin">v. 4.</note> 
+                  <hi>wickedneſs.</hi> In the beginning of a good work: <hi>I delight to do thy will, O my God:</hi> 
+                  <note place="margin">Pſal. 40. 8.</note> 
+                  <hi>yea, thy law is within my Heart.</hi> After I am ſubdued by a Sin: <hi>Hide thy face from</hi> 
+                  <note place="margin">Pſal. 51. 9.</note> 
+                  <hi>my ſins, and blot out all mine inquities. Create in me a clean heart, O God: and re<g ref="char:EOLhyphen"/>new</hi> 
+                  <note place="margin">v. 10.</note> 
+                  <hi>a right Spirit within me. Caſt me not</hi> 
+                  <note place="margin">v. 11.</note> 
+                  <hi>away from thy preſence, and take not thy ho<g ref="char:EOLhyphen"/>ly Spirit from me, Reſtore unto me the joy</hi> 
+                  <note place="margin">v. 12.</note> 
+                  <hi>of thy ſalvation, and uphold me with thy free Spirit.</hi> In my entrance into the houſe of God: <hi>How amiable are thy Tabernacles, ô</hi> 
+                  <note place="margin">Pſal. 84. 1. Pſal. 27. 4.</note> 
+                  <hi>Lord of Hoſts!</hi> Or: <hi>One thing have I deſi<g ref="char:EOLhyphen"/>red of the Lord, that will I ſeek after: that I may dwell in the houſe of the Lord all the dayes of my life, to behold the beauty of the Lord, and to enquire in his temple.</hi> Before the reading of Scripture, or any other pi<g ref="char:EOLhyphen"/>ous Book: <hi>Speak, Lord, for thy ſervant</hi> 
+                  <note place="margin">1 Sam: 3. 9. Pſ. 119. 18.</note> 
+                  <hi>heareth.</hi> Or: <hi>Open thou mine eyes, that I may behold wondrous things out of thy law.</hi> At the ſight of meat: <hi>The eyes of all wait</hi> 
+                  <note place="margin">Pſ. 145. 15.</note> 
+                  <hi>upon thee, and thou givest them their meat in due ſeaſon. Thou openest thy hand and</hi> 
+                  <note place="margin">v: 16.</note>
+                  <pb n="35" facs="tcp:170218:20"/> 
+                  <hi>ſatisfieſt the deſire of every living thing.</hi> In Proſperity: <hi>If I do not remember thee, let</hi> 
+                  <note place="margin">Pſal. 137. 6</note> 
+                  <hi>my tongue cleave to the roof of my mouth, if prefer not Jeruſalem above my chief joy.</hi> In Adverſity: <hi>The Lord killeth, and maketh a<g ref="char:EOLhyphen"/>live;</hi> 
+                  <note place="margin">1 Sam. 2, 6<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>he bringeth down to the grave, and bringeth up. The Lord maketh poor, and ma<g ref="char:EOLhyphen"/>keth</hi> 
+                  <note place="margin">v. 7.</note> 
+                  <hi>rich: he bringeth low, and lifteth up.</hi> Or: What? <hi>Shall we receive good at the</hi> 
+                  <note place="margin">Job 2. 10.</note> 
+                  <hi>hand of God, and ſhall we not receive evil?</hi> When I am reproached by men for the doing of good: <hi>Do I ſeek to pleaſe men?</hi> 
+                  <note place="margin">Gal. 1. 10</note> 
+                  <hi>for if I yet pleaſed men, I ſhould not be the ſervant of Chriſt.</hi> In the hearing of prai<g ref="char:EOLhyphen"/>ſes: <hi>Not unto us, ô Lord, not unto us, but</hi> 
+                  <note place="margin">Pſa. 115. 1.</note> 
+                  <hi>unto thy Name give glory: for thy mercy, and for thy truth's ſake.</hi> In the heat of a Temptation: <hi>Yea, though I walk thorow</hi> 
+                  <note place="margin">Pſal. 23. 4.</note> 
+                  <hi>the valley of the ſhadow of death, I will fear no evil: for thou art with me, thy rod and thy ſtaff they comfort me.</hi> When I looke upwards, <hi>The Heavens declare the glory</hi> 
+                  <note place="margin">Pſal. 19. 1.</note> 
+                  <hi>of God: &amp; the Firmament ſheweth his han<g ref="char:EOLhyphen"/>dy work.</hi> Or: <hi>Clouds they are without wa<g ref="char:EOLhyphen"/>ter,</hi> 
+                  <note place="margin">Jude v. 12.</note> 
+                  <hi>carried about of winds;</hi> he means falſe teachers. When I behold the Earth: <hi>One</hi> 
+                  <note place="margin">Eccleſ. 1. 4.</note> 
+                  <hi>generation paſſeth away, and another gene<g ref="char:EOLhyphen"/>ration cometh: but the Earth abideth for e<g ref="char:EOLhyphen"/>ver.</hi> At the ſight of a Tree: <hi>Trees whoſe fruit withereth, without fruit, twice dead,</hi> 
+                  <note place="margin">Jude v. 12</note> 
+                  <hi>plucked up by the roots.</hi> Seeing a Flower:
+<pb n="36" facs="tcp:170218:21"/> 
+                  <hi>The flowers appear on the Earth, the time of</hi> 
+                  <note place="margin">Cant. 2. 12.</note> 
+                  <hi>the ſinging of birds is come, and the voice of the turtle is heard in our land.</hi> Or: <hi>I am the roſe of Sharon, and the Lilie of the val<g ref="char:EOLhyphen"/>leys.</hi> 
+                  <note place="margin">v. 1.</note> When I am on the way in a journey: <hi>I am the Way, and the Truth, and the Life:</hi> 
+                  <note place="margin">Jo. 14. 6.</note> 
+                  <hi>no man cometh to the Father, but by me.</hi> Or: <hi>Prepare ye the way of the Lord, make his</hi> 
+                  <note place="margin">Mat. 3. 3.</note> 
+                  <hi>paths ſtraight.</hi> When I hear of a Lion: <hi>Be ſober, be vigilant; becauſe your adverſa<g ref="char:EOLhyphen"/>ry</hi> 
+                  <note place="margin">1 Pet. 5. 8</note> 
+                  <hi>the Devil, as a roaring Lion, walketh about ſeeking whom he may devour.</hi> When a Bear is in the Diſcourſe: <hi>And there came forth two ſhe-bears out of the Wood, and</hi> 
+                  <note place="margin">2 Kings 2. 24:</note> 
+                  <hi>tare forty and two children of them.</hi> The ſhe<g ref="char:EOLhyphen"/>bear licketh her young into right ſhape, and order of parts. When the Cock croweth: <hi>And immediately the Cock crew.</hi> 
+                  <note place="margin">Mat. 26. 74. v. 75.</note> 
+                  <hi>And Peter remembred the words of Jeſus, which ſaid unto him: Before the Cock crow thou ſhalt deny me thrice, and he went out and wept bitterly.</hi> When the Sea is before me: <hi>Raging waves of the Sea, foming out</hi> 
+                  <note place="margin">Jude v. 13. Pſal. 4. 8.</note> 
+                  <hi>their own ſhame.</hi> When I lay me down to ſleep: <hi>I will both lay me down in peace and ſleep: for thou, Lord, only makeſt me dwell in ſafety.</hi>
+               </p>
+               <p>I have many more in my Quiver. But I will not glut my Reader. It is granted, that I uſe no Prayers of my own compo<g ref="char:EOLhyphen"/>ſure: my experience doth ſo daily con<g ref="char:EOLhyphen"/>fute
+<pb n="37" facs="tcp:170218:21"/> the common uſe of them. For exam<g ref="char:EOLhyphen"/>ple, The other day I came into a Church, where the Miniſter wearying his Audi<g ref="char:EOLhyphen"/>tory with his long Prayer before his Ser<g ref="char:EOLhyphen"/>mon, and ſeeing me in my entrance, threw down the bleſſed Name of God, took it up again and again, and yet again; then varied the Name, (as Boys do phra<g ref="char:EOLhyphen"/>ſes;) then went backward to his paſt Matter, and catcht here and there; after, ſtood mute awhile: and laſtly, being un<g ref="char:EOLhyphen"/>able to go forward, chang'd the whole Buſineſs, and pray'd God to deliver him from <hi>Jeſuitical plots.</hi>
+               </p>
+               <p>Theſe Vile Dirt-flingers have defiled and beſmeared me with many other ſlan<g ref="char:EOLhyphen"/>ders, (with which I ſhall not here cum<g ref="char:EOLhyphen"/>ber my ſelf, and over which my Soul ſtands and looks with an incomparable chearfulneſs:) but with two eſpecially; which I ſet apart for the two next Chap<g ref="char:EOLhyphen"/>ters.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>The eighth Matter in Queſtion.</p>
+               </argument>
+               <p>THe eighth <hi>Matter</hi> of the <hi>Appeal,</hi> is admitted. Theſe <hi>Babyloniſh Satyrs</hi> 
+                  <note place="margin">Iſ. 13. 21.</note>
+                  <pb n="38" facs="tcp:170218:22"/> that <hi>dance</hi> upon the Ruins of <hi>good Report:</hi> report, that I begot a Baſtard: the ſecond Edition ſayes three: the third, five: and thus, the Devil's market riſes (although the Devil's Cryer in the market, did on<g ref="char:EOLhyphen"/>ly paſs when he cried the News; and is himſelf cried after with a loud cry of his near Acquaintance, by the Names of a Common Liar, a Fool, a Knave, a Beg<g ref="char:EOLhyphen"/>gar, and a vicious perſon:) I ſhall con<g ref="char:EOLhyphen"/>ceal their Names, becauſe ſome of them are in Office, and in <hi>State-ſervice:</hi> though, I believe, it is expected that they ſhould be otherwiſe buſied. Yet I cannot ſup<g ref="char:EOLhyphen"/>preſs the Name of <hi>Davis Fry,</hi> a Twin<g ref="char:EOLhyphen"/>child.</p>
+               <p>To thee, O Lord <hi>Iehovah, I appeal.</hi> My Children begot, after Matrimony per<g ref="char:EOLhyphen"/>fectly agreeable to the Laws of <hi>England,</hi> of my Wife; I ſet aſide. And if ever I had other child or children, I deſerve to feel the weight of thy Juſtice without Mercy, in all Eternity, both in regard of that foul wickednes, and of this pre<g ref="char:EOLhyphen"/>ſumptuous <hi>Appeal.</hi> But if no ſuch Thing ever was, nor any the leaſt Appearance: (&amp; thou know'ſt there was not:) To thee I cry aloud for Juſtice: <hi>O thou that dwelleſt in the Heavens,</hi> ſend thy Angels to exe<g ref="char:EOLhyphen"/>cute <note place="margin">Pſa. 123. 1.</note> it. Behold they ſtand with much obſtinacy in their Credulity, and have not
+<pb n="39" facs="tcp:170218:22"/> made me any kinde of <hi>Satisfaction.</hi> Of Thee I require it, according to the <hi>Rights</hi> of my <hi>creation,</hi> which were given by Thee and in which Thou haſt bound thy ſelf to conſerve me, anſwerably to thy <hi>Mercy</hi> or <hi>Iuſtice.</hi> They cry out: Of what worth is all this <hi>Preaching</hi> of the Baſtard-beget<g ref="char:EOLhyphen"/>ter? They curiouſly, ſeekingly, and joy<g ref="char:EOLhyphen"/>fully heard it; they proudly maintain it; and they triumph and tripudiate in their wickedneſs. To Thee, the ſole <hi>Fountain of all Power, I hold up</hi> the Hand which thou haſt enabled: <hi>Anſwer them out of</hi> 
+                  <note place="margin">Job 38. 1</note> 
+                  <hi>the Whirlwinde.</hi>
+               </p>
+               <p>I have learned in thy word: <hi>If any man</hi> 
+                  <note place="margin">1 Cor. 3. 17.</note> 
+                  <hi>defile the Temple of God, him ſhall God de<g ref="char:EOLhyphen"/>ſtroy: for the Temple of God is holy, which Temple ye are.</hi> One of the <hi>Ancients</hi> ex<g ref="char:EOLhyphen"/>pounds it; <hi>If any man ſhall vitiate by un<g ref="char:EOLhyphen"/>chastity.</hi> And the <hi>Greek Text</hi> conſents. <note place="margin">
+                     <hi>Text. Gr.</hi> Gen. 1. 26.</note>
+               </p>
+               <p>I know, that thou madeſt us <hi>after thy likenes;</hi> and thy Son, according to his <hi>hu<g ref="char:EOLhyphen"/>man Nature, in our likenes.</hi> St. Paul ſpeaks it of him; <hi>and was made in the likeneſs of</hi> 
+                  <note place="margin">Philip. 2. 7.</note> 
+                  <hi>men.</hi> I know, that, Men and Angels ha<g ref="char:EOLhyphen"/>ving fallen; he took upon him, only our nature and body: <hi>For verily he took not on</hi> 
+                  <note place="margin">Heb. 2. 16:</note> 
+                  <hi>him the nature of Angels: but he took on him the ſeed of Abraham.</hi> I know, that the Son of God in the fleſh, was made a moſt pure and acceptable <hi>Holocauſt</hi> for us: <hi>He</hi>
+                  <pb n="40" facs="tcp:170218:23"/> 
+                  <hi>ſpared not his own Son, but delivered him up</hi> 
+                  <note place="margin">Rom. 8. 32.</note> 
+                  <hi>for us all.</hi> And conſequently, I know, that our <hi>Sins of the fleſh,</hi> after the <hi>Incar<g ref="char:EOLhyphen"/>nation</hi> and <hi>paſſion</hi> of Chriſt, are much more hainous than before. And ſhall any im<g ref="char:EOLhyphen"/>pure Woman come near my Body, to the begetting of a Baſtard? <hi>God forbid.</hi>
+               </p>
+               <p>I confeſſe before God and the World, I am ſo very far from baſtard-begetting, that I am deeply ſorry I ever toucht a woman beyond the Modeſty of a Batche<g ref="char:EOLhyphen"/>lour. And now, I <hi>ſmite upon my breſt, and</hi> 
+                  <note place="margin">Luke 18. 13.</note> 
+                  <hi>ſay, God be mercifull to me a Sinner.</hi>
+               </p>
+               <p>Thou knoweſt, O God, that I was ſtab'd with a Dagger in the face, becauſe I privately reproved another for Adulte<g ref="char:EOLhyphen"/>ry. And ſhall I my ſelf commit the ſame, or the like Sin? <hi>How then could I do this great wickedneſs, and ſin against God?</hi> 
+                  <note place="margin">Gen. 39. 9.</note>
+               </p>
+               <p>And (which is <hi>tranſcendently</hi> wicked) they commiſſionated a very <hi>Child of Be<g ref="char:EOLhyphen"/>lial,</hi> who was publikely known guilty of baſtard-begetting; to debaſe and vilify me under this Title. And furthermore, one of the chief Actors in this Villany, had been formerly ſeen and ſound—. Not a word more at this Time; upon a Friendly conſideration.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="41" facs="tcp:170218:23"/>
+               <head>CHAP. XII.</head>
+               <argument>
+                  <p>The Ninth Matter in Que<g ref="char:EOLhyphen"/>stion.</p>
+               </argument>
+               <p>THe Ninth <hi>Matter</hi> of the <hi>Appeal,</hi> breaks forth. Theſe Children of the <hi>Serpent</hi> which <hi>caſt out of his mouth water as a flood, after the woman,</hi> in the <note place="margin">Revel. 12. 15.</note> 
+                  <hi>Revelation: that he might cauſe her to be carried away of the flood:</hi> Spew out of their filthy mouths, that I am a Drunk<g ref="char:EOLhyphen"/>ard. <hi>I appeal to God.</hi> And I humbly de<g ref="char:EOLhyphen"/>ſire all that know me, to conſider of this moſt known Slander; and if they be ſo pleaſed, to weigh the other not-ſo-much appearing Slanders by the moſt apparent lightneſs and falſhood of this.</p>
+               <p>Of a truth, if I be a Drunkard, or any way inclinable to be ſo; I muſt needs be the vileſt of Hypocrites. For, no Man hath Preached more earneſtly againſt Drunkenneſs, than my ſelf. Yea, I am ſo far tranſported, and bended the other way, that I can hardly faſten my affection upon a man, after I have ſeen him drunk</p>
+               <p>I have preached, that a Man drunk, is not a man, but a vile Beaſt, yea, worſe than a Beaſt, yea, worſe than the wosſt
+<pb n="42" facs="tcp:170218:24"/> of Beaſts; yea, that no Creature is ſo much removed and placed out of the <hi>cir<g ref="char:EOLhyphen"/>cle</hi> and capacity of all Good, no not the Devil. For, <hi>the Devils believe and trem<g ref="char:EOLhyphen"/>ble.</hi> 
+                  <note place="margin">James 2. 19. Pſal. 148 10.</note> And <hi>Beaſts and all Cattel: creeping things, and flying fowl,</hi> are invited to <hi>praiſe God.</hi> The Aſſe, Toad, Owl, Woodcock, <hi>praiſe God:</hi> but the drunk Woodcock, Owl, Toad, Aſſe, cannot <hi>praiſe him.</hi> Men are drunk alſo, with Anger, Malice, He<g ref="char:EOLhyphen"/>reſie, &amp;c.</p>
+               <p>I have preached, that a Drunkard is the moſt horrid Profaner of the beſt of <hi>Cups;</hi> and that every Cup which he re<g ref="char:EOLhyphen"/>ceives above <hi>meaſure,</hi> reflects diſhonour upon that ſacred <hi>Cup,</hi> whereof the Apo<g ref="char:EOLhyphen"/>ſtle; <hi>The cup of bleſſing which we bleſs, is</hi> 
+                  <note place="margin">1 Cor. 10 16.</note> 
+                  <hi>it not the communion of the blood of Chriſt?</hi> For, according to the <hi>Logical Rule,</hi> Pri<g ref="char:EOLhyphen"/>mum in unoquoque genere eſt menſura reliquorum, <hi>The firſt and most noble in e<g ref="char:EOLhyphen"/>very kinde is the meaſure of the reſt;</hi> and if it <hi>meaſureth</hi> not, it is rejected and diſho<g ref="char:EOLhyphen"/>nored as an <hi>appointed meaſure.</hi>
+               </p>
+               <p>I have preached, that He who <hi>delight<g ref="char:EOLhyphen"/>fully</hi> makes others drunk, knowing more<g ref="char:EOLhyphen"/>over that a man dying in Drunkennes is irrecoverable; Some way participates of the <hi>Sin against the holy Ghost, who,</hi> for his <note place="margin">1 Tim. 2 4.</note> abundant goodneſs, <hi>will have all men to be ſaved.</hi> At which time I declared, that a
+<pb n="43" facs="tcp:170218:24"/> 
+                  <hi>Sin of Infirmity</hi> is againſt the Father, be<g ref="char:EOLhyphen"/>cauſe <hi>Power</hi> is his <hi>proper Attribute;</hi> that a <hi>Sin of Ignorance</hi> is againſt the Son, be<g ref="char:EOLhyphen"/>cauſe his <hi>proper Attribute</hi> is <hi>Wiſdom:</hi> and that a <hi>Sin of Malice</hi> is <hi>againſt the holy Ghoſt,</hi> becauſe <hi>Goodneſs</hi> is his <hi>proper At<g ref="char:EOLhyphen"/>tribute:</hi> and yet, not a <hi>Sin of</hi> every <hi>malice,</hi> but <hi>of a certain malice, by the which we de<g ref="char:EOLhyphen"/>ſiringly contrive the deſtruction of Souls.</hi>
+               </p>
+               <p>I yield without pulling, that many Preachers contradict their Preaching by their Practiſe. But this is a Sin which cannot be committed, except in the view of Men: and they who know me, muſt free me. And therefore, I have often ruminated in my thoughts, that theſe ditch-and-dunghil Saints, could not ſo much harden their faces and conſciences, unleſſe they were actually <hi>poſſeſſed</hi> or <hi>ob<g ref="char:EOLhyphen"/>ſeſſed with Devils;</hi> eſpecially, our Savi<g ref="char:EOLhyphen"/>our ſaying to the Jews and Phariſees, <hi>Ye are of your Father the Devil, and the luſts</hi> 
+                  <note place="margin">Jo. 8. 44.</note> 
+                  <hi>of your Father ye will do: he was a murde<g ref="char:EOLhyphen"/>rer from the beginning.</hi> And while I am full of theſe thoughts, and cite other <hi>cir<g ref="char:EOLhyphen"/>cumstances</hi> to make their appearance, I cannot but judg it a ſingular and peerleſs piece of <hi>heroical charity</hi> to <hi>command</hi> and diſengage theſe Swiniſh and Dirt-loving Devils from theſe dirty-throated Peo<g ref="char:EOLhyphen"/>ple; though God hath in his Juſtice
+<pb n="48" facs="tcp:170218:25"/> 
+                  <hi>ſuffered</hi> their entrance, as Chriſt <hi>ſuffered the devils</hi> to enter <hi>into the herd of Swine.</hi> 
+                  <note place="margin">Matt. 8. 31.</note>
+               </p>
+               <p>The good women that joyn'd their Cha<g ref="char:EOLhyphen"/>rity in the giving of a Pig, cried out af<g ref="char:EOLhyphen"/>terwards upon ſad experience of wilde<g ref="char:EOLhyphen"/>hoggiſhneſſe, that the Devil entred with the Pig; and why might not I charitably ſhape the diſpoſſeſſion or ejectio<g ref="char:cmbAbbrStroke">̄</g> of him?</p>
+               <p>Now let theſe impious Profeſſours know, that Sin is either ſuch as preſently diſcovers it's <hi>malice</hi> in the very <hi>Act;</hi> of which foul ſtamp is <hi>Drunkenneſſe, Swear<g ref="char:EOLhyphen"/>ing, Murder:</hi> or ſuch as diſcovers not its <hi>malice,</hi> preſently, of which kind is <hi>Lying, Deceit, Slander:</hi> theſe being not diſcove<g ref="char:EOLhyphen"/>red ordinarily, but after a Turn of Time, and as it were, at the ſecond rebound, and perhaps never. And that he who refrains himſelf only from the firſt, deſires to <hi>pleaſe man;</hi> thoſe being expoſed to the Senſe: but he that abſtains from all, ſtudies to <hi>pleaſe God,</hi> and is <hi>conformed</hi> to him. O thou Searcher of Searchers, <hi>Search</hi> theſe dark-hearted, and <hi>fearleſs,</hi> though <hi>trem<g ref="char:EOLhyphen"/>bling</hi> Lyars with <hi>candles;</hi> &amp; puniſh theſe <note place="margin">Zeph. 1. 12.</note> proud, yet ignorant contemners of Truth and Learning, that <hi>are ſetled on the lees</hi> of Herefie and Paſſion.</p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="45" facs="tcp:170218:25"/>
+            <head>The Concluſion.</head>
+            <p>REader, I have liv'd here, to hear the <hi>moſt ſacred Trinity,</hi> denyed; the <hi>Incarnation of Chriſt,</hi> moſt ſordidly vilifi<g ref="char:EOLhyphen"/>ed; the <hi>holy Ghoſt,</hi> rejected; the <hi>holy Scri<g ref="char:EOLhyphen"/>ptures,</hi> trod upon as fabulous; the <hi>Immor<g ref="char:EOLhyphen"/>tality of the Soul,</hi> abandoned; <hi>Heaven</hi> and <hi>Hell,</hi> thruſt out of the world; <hi>little inno<g ref="char:EOLhyphen"/>cent Infants,</hi> exil'd from the <hi>Covenant;</hi> and almoſt all <hi>helps of divine Worſhip,</hi> like the Goods of the Houſe called the <hi>Agrigen<g ref="char:EOLhyphen"/>tine</hi> Gally, ejected.</p>
+            <p>I have heard it aſſerted by ſome, that all Things come by Nature; and by o<g ref="char:EOLhyphen"/>thers, that when they, being Saints, pray for a ſupply of their wants, mony is pre<g ref="char:EOLhyphen"/>ſently brought by a miraculous Hand, and found by them on their Tables. Theſe are <hi>Seekers.</hi>
+            </p>
+            <p>I have ſeen the <hi>Turkiſh Alcoran,</hi> Engli<g ref="char:EOLhyphen"/>ſhed; and a Book which is called <hi>Prae-Adamitae,</hi> and affirms that there were many Generations of people before our
+<pb n="46" facs="tcp:170218:26"/> 
+               <hi>Adam,</hi> though burned at <hi>Paris,</hi> yet here taught to ſpeak Engliſh, and <hi>held forth</hi> to the People.</p>
+            <p>I have had ſome conference with a <hi>Man in white,</hi> that pretended he came down from Heaven, and ſpake the <hi>Lan<g ref="char:EOLhyphen"/>guage</hi> uſed there. I have met with two <hi>Womens-taylors,</hi> who profeſſed themſelves to be <hi>the two witneſſes</hi> in the <hi>Revelation.</hi> 
+               <note place="margin">Rev. 11. 3.</note>
+            </p>
+            <p>I have heard moſt <hi>contradictory Untruths</hi> preached, in every place, againſt other Churches: and the proceedings have been agreeable, and of purpoſe <hi>contradictory.</hi> And I have found the Miniſters moſt childiſhly, and moſt groſly ignorant of tranſmarine wayes, and Doctrines.</p>
+            <p>I have beheld a moſt horrible Inunda<g ref="char:EOLhyphen"/>tion of Hell it ſelf, vomiting up all the <hi>old</hi> loathed and abominable <hi>hereſies</hi> amongſt us: the Devil not fighting ſingly now, as in the Dayes before us, againſt the ſacred <hi>Articles of the Creed<g ref="char:punc">▪</g>
+               </hi> in order as they have place; but acting a moſt dolefull Trage<g ref="char:EOLhyphen"/>dy of Confuſion, and making a moſt fierce Aſſault and a moſt terrible Onſet, upon all the ſaid <hi>Articles</hi> together; and in one bold Adventure, heaving at the whole Fabrick of Chriſt's bleſſed <hi>Name</hi> and <hi>Re<g ref="char:EOLhyphen"/>ligion:</hi> as if the Plot of Hell were, wholly to deveſt the <hi>Royal</hi> and <hi>Celeſtial Maid</hi> of her <hi>Dowry.</hi>
+            </p>
+            <pb n="47" facs="tcp:170218:26"/>
+            <p> I have ſeen even the very <hi>firſt-born</hi> of all the reſt, and the <hi>truly-maſculine Spirits,</hi> ſmother'd in theſe <hi>Waters of Affliction.</hi> And I fear, that all the <hi>Plagues of Egypt</hi> are coming.</p>
+            <p>My deſire and appetite is great, and I am hungry beyond expreſſion. But I can<g ref="char:EOLhyphen"/>not <hi>fill my belly with theſe hogs-husks.</hi> 
+               <note place="margin">Luk: 15. 16.</note>
+            </p>
+            <p>I have born the ſhock of a thouſand ſlanders, thrown upon me by the Dregs of People, even ſuch as were lately <hi>bro<g ref="char:EOLhyphen"/>ken,</hi> and are in the confuſion of theſe Times, newly ſouldred and <hi>ſet up</hi> again. I have been miſerably wrought upon as a meer Scholar, and fallaciouſly entangled in obligations againſt my ſelf, by a Bro<g ref="char:EOLhyphen"/>ther; who <hi>preſents a godly ſhew</hi> to the peo<g ref="char:EOLhyphen"/>ple, and <hi>builds upon</hi> my <hi>Blood</hi> and Ruins.</p>
+            <p>
+               <hi>Behold, how good and how pleaſant it is for</hi> 
+               <note place="margin">Pſal. 133 1.</note> 
+               <hi>Brethren to dwell together in <g ref="char:V">Ʋ</g>nity.</hi> This is the firſt part of the laſt <hi>Gradual Pſalm,</hi> or <hi>Song of Degrees,</hi> ſaving one. The laſt ſings thus, <hi>Behold, bleſs ye the Lord, all ye ſer<g ref="char:EOLhyphen"/>vants</hi> 
+               <note place="margin">Pſal. 134 1. v. 2.</note> 
+               <hi>of the Lord: which by night ſtand in the houſe of the Lord. Lift up your hands in the Sanctuary, and bleſs the Lord.</hi> This is <hi>the laſt &amp; highest perfection</hi> upon earth; (wherewith I would be gladly <hi>perfected,</hi> that my <hi>laſt, and highest Appeal</hi> may be freely &amp; fully <hi>anſwer'd from heaven:)</hi> theſe <hi>Gradual Pſalms,</hi> as they keep their ranks
+<pb n="48" facs="tcp:170218:27"/> and Order, teaching more and more <hi>per<g ref="char:EOLhyphen"/>fection.</hi>
+            </p>
+            <p>My laſt Engliſh words in this Treatiſe, ſhall be the text of my firſt Sermon prea<g ref="char:EOLhyphen"/>ched in England. <hi>Come out of her, my Peo<g ref="char:EOLhyphen"/>ple,</hi> 
+               <note place="margin">Rev. 18. 3.</note> 
+               <hi>that ye be not partakers of her ſins, and that ye receive not of her plagues.</hi>
+            </p>
+            <closer>Vivat Dominus PROTECTOR noſter.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
